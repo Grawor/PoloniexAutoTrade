@@ -1,2 +1,2 @@
-# PoloniexAutoTrade
-Poloniex を用いた自動売買プログラム
+# poloniex_deep_learning
+Poloniex を用いた機械学習プログラム
